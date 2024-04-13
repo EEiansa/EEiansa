@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center"> ...profile in progress and construction...👋</h1>
+<h1 align="center">...profile in progress and construction...</h1>
 
 ###
 
