@@ -11,14 +11,19 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img height="149" src="https://im.ge/i/bannerlinkedin3.ZTTfl4"  />
 </div>
 
 ###
 
-<h1 align="center">...profile in progress and construction...👋</h1>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<h1 align="center"> ...profile in progress and construction...👋</h1>
 
 ###
 
@@ -26,7 +31,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Brazil<br><br>- 🔭 I’m I'm a telecommunications engineer and I'm studying data engineering(Data Analysis,Data engineer,Dataops and AI-Artificial Intelligence).<br>#WomeninTech<br>#WomenRockIT<br>#LifelongLearning<br><br>- ⚡ In my free time I like to walk, run and travel.</p>
+<p align="left">I'm ... from ....Brazil<br><br>- 🔭 I’m I'm a Telecommunications Engineer and I'm studying data engineering(Data Analysis,Data engineer,Dataops and AI-Artificial Intelligence).<br>#WomeninTech<br>#WomenRockIT<br>#LifelongLearning<br><br>- ⚡ In my free time I like to walk, run and travel.</p>
 
 ###
 
@@ -55,5 +60,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
 
 ###
