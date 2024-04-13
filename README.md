@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Brazil<br><br>- 🔭 I’m I'm a Telecommunications Engineer and I'm studying data engineering(Data Analysis,Data engineer,Dataops and AI-Artificial Intelligence).<br>#WomeninTech<br>#WomenRockIT<br>#LifelongLearning<br><br>- ⚡ In my free time I like to walk, run and travel.</p>
+<p align="left">I'm ... from ....Brazil<br><br>- 🔭 I'm a Telecommunications Engineer and I'm studying data engineering(Data Analysis,Data engineer,Dataops and AI-Artificial Intelligence).<br>#WomeninTech<br>#WomenRockIT<br>#LifelongLearning<br><br>- ⚡ In my free time I like to walk, run and travel.</p>
 
 ###
 
