@@ -1,4 +1,4 @@
-###  👋
+###  
 
 <div align="center">
   <img height="150" src="https://im.ge/i/EdithArtificial-1-2.ZTQCYP" />
